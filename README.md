@@ -1,2 +1,2 @@
-# timebankchain2
+# timebankchain
 timebank 
